@@ -1,0 +1,87 @@
+@import url("https://fonts.googleapis.com/css2?family=Fira+Sans&display=swap");
+
+/* .header {
+  position: sticky;
+  top: 0;
+} */
+
+nav ul li a {
+  font-family: "Fira Sans";
+}
+
+.btn-book {
+  font-size: xx-large;
+}
+
+.btn-book a {
+  background: #ec3944;
+  border-radius: 10px;
+  font-size: 20px;
+}
+
+.container h1 {
+  font-weight: bold;
+  font-size: 50px;
+}
+
+.partenaire img {
+  margin: 20px 50px 5px;
+}
+
+.image-bat img {
+  width: 48px;
+  background: #f7f7f7;
+  border-radius: 20px;
+}
+
+/* section 3 */
+.container .card {
+  border: 4px solid #ec3944;
+  border-radius: 10px;
+  height: 450px;
+}
+
+.container .line-bottom {
+  border-bottom: 3px solid #ec3944;
+  width: 50%;
+}
+
+.section-digital {
+  background: rgb(241, 240, 240);
+}
+
+.social-media a {
+  color: white;
+}
+
+.social-media a:hover {
+  color: white;
+}
+
+.container .line {
+  border: 2px solid #fff;
+  background-color: white;
+  border-radius: 20px;
+  width: 40%;
+}
+
+.container .num-tele a {
+  color: #fff;
+  text-decoration: none;
+}
+
+.container .links a {
+  color: #fff;
+}
+
+.area-footer input {
+  border-radius: 5px;
+  border: 1px solid #818a91;
+  margin: 5px;
+  width: 100%;
+  max-width: 100%;
+  flex-grow: 1;
+}
+/* .image-coder img {
+  margin-bottom: 100px;
+} */
